@@ -1,0 +1,66 @@
+[
+  {
+    "url": "https://google.com",
+    "status": "UP",
+    "responseTime": 1004,
+    "statusCode": 200,
+    "timestamp": "2025-06-16T07:15:29.040Z",
+    "error": null
+  },
+  {
+    "url": "https://github.com",
+    "status": "UP",
+    "responseTime": 506,
+    "statusCode": 200,
+    "timestamp": "2025-06-16T07:15:28.629Z",
+    "error": null
+  },
+  {
+    "url": "https://httpstat.us/404",
+    "status": "DOWN",
+    "responseTime": 1257,
+    "statusCode": 404,
+    "timestamp": "2025-06-16T07:15:29.383Z",
+    "error": null
+  },
+  {
+    "url": "https://non-existent-site.com",
+    "status": "DOWN",
+    "responseTime": 158,
+    "statusCode": null,
+    "timestamp": "2025-06-16T07:15:28.288Z",
+    "error": "getaddrinfo ENOTFOUND non-existent-site.com"
+  },
+  {
+    "url": "https://google.com",
+    "status": "UP",
+    "responseTime": 1021,
+    "statusCode": 200,
+    "timestamp": "2025-06-16T07:20:01.896Z",
+    "error": null
+  },
+  {
+    "url": "https://github.com",
+    "status": "UP",
+    "responseTime": 590,
+    "statusCode": 200,
+    "timestamp": "2025-06-16T07:20:01.555Z",
+    "error": null
+  },
+  {
+    "url": "https://httpstat.us/404",
+    "status": "DOWN",
+    "responseTime": 1146,
+    "statusCode": 404,
+    "timestamp": "2025-06-16T07:20:02.114Z",
+    "error": null
+  },
+  {
+    "url": "https://non-existent-site.com",
+    "status": "DOWN",
+    "responseTime": 19,
+    "statusCode": null,
+    "timestamp": "2025-06-16T07:20:00.989Z",
+    "error": "getaddrinfo ENOTFOUND non-existent-site.com"
+  }
+]
